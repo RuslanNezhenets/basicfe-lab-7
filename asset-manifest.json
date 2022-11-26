@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basicfe-lab-7/static/css/main.566da172.css",
+    "main.js": "/basicfe-lab-7/static/js/main.3c87d38e.js",
+    "index.html": "/basicfe-lab-7/index.html",
+    "main.566da172.css.map": "/basicfe-lab-7/static/css/main.566da172.css.map",
+    "main.3c87d38e.js.map": "/basicfe-lab-7/static/js/main.3c87d38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566da172.css",
+    "static/js/main.3c87d38e.js"
+  ]
+}
