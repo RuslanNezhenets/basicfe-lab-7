@@ -1,0 +1,12 @@
+body {
+  margin: 15px;
+  padding: 0;
+}
+
+*,
+*:before,
+*:after{
+  box-sizing: border-box;
+}
+
+@import "blocks/Img";
