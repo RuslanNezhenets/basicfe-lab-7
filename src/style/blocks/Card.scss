@@ -1,0 +1,38 @@
+.Cards{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.Card{
+  margin: 10px;
+  border-radius: 10px;
+  transition: margin .2s;
+  font-weight: bold;
+
+  &:hover{
+    cursor: pointer;
+    margin: 3px;
+  }
+}
+
+.Card__img{
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+
+.Card__name{
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+.Card__price{
+  margin: 5px 10px;
+  background-color: #0d6efd;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  width: 110px;
+  text-align: center;
+  color: white;
+}
